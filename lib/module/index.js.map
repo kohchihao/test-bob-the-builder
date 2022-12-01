@@ -1,0 +1,1 @@
+{"version":3,"names":["React","Text","Avatar","props","size"],"sourceRoot":"../../src","sources":["index.tsx"],"mappings":"AAAA,OAAO,KAAKA,KAAK,MAAM,OAAO;AAC9B,SAASC,IAAI,QAAQ,cAAc;AAMnC,MAAMC,MAAM,GAAIC,KAAY,IAAK;EAC/B,oBAAO,oBAAC,IAAI,QAAEA,KAAK,CAACC,IAAI,CAAQ;AAClC,CAAC;AAED,eAAeF,MAAM"}
