@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "baseUrl": "./",
-    "paths": {
-      "react-native-awesome-library": ["./src/index"]
-    },
+    // "paths": {
+    //   "react-native-awesome-library": ["./src/index"]
+    // },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
     "esModuleInterop": true,
